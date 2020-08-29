@@ -1,0 +1,331 @@
+#title{
+    background-image: linear-gradient(to top ,rgba(142, 198, 197,0),rgb(198, 142, 170));
+    
+    color: #ffffff;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.switch {
+    align-self: flex-end;
+    margin: 0.9375rem;
+}
+.inner-switch {
+    display: inline-block;
+    cursor: pointer;
+    border: 1px solid #555;
+    border-radius: 1.25rem;
+    width: 3.125rem;
+    text-align: center;
+    font-size: 1rem;
+    padding: 0.1875rem;
+    margin-left: 0.3125rem;
+}
+.dark,
+.dark * {
+    background-color: #222;
+    color: #e6e6e6;
+    border-color: #e6e6e6;
+
+}
+h1{
+    color:#3b6978;
+    margin: 100px auto 0 auto;
+    font-size: 4.625rem;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+}
+h2{
+    color:#3b6978;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    line-height: 2;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+.navbar{
+    padding:0 0 4.5rem;
+}
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+}
+.nav-item{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.nav-link{
+    font-family: "Montserrat",sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+
+.earthcontent{
+    margin: 0 auto;
+    max-width: 800px;
+    overflow: hidden;
+
+}
+
+.mountain{
+    width: 100%;
+    vertical-align: middle;
+    border: 0;
+    margin-bottom: 0px;
+}
+.left-cloud {
+    left: 8em;
+    top: 6em;
+    position: absolute;
+    width: 150px;
+
+    z-index: 980;
+}
+
+.right-cloud {
+    right: 10em;
+    top: 4em;
+    position: absolute;
+    width: 150px;
+    
+    z-index: 980;
+}
+
+
+#title{
+    background-image: linear-gradient(to top ,rgba(142, 198, 197,0),rgba(142, 198, 197,1));
+    
+    color: #ffffff;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+h1{
+    color:#3b6978;
+    margin: 100px auto 0 auto;
+    font-size: 4.625rem;
+    font-family: 'Courgette', cursive;
+    text-align: center;
+}
+h2{
+    color:#3b6978;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    line-height: 2;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+
+
+/* Navigation bar */
+.navbar{
+    padding:0 0 4.5rem;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+}
+
+.nav-link{
+    font-family: "Montserrat",sans-serif;
+    font-weight: 300;
+    font-size: 1.2rem;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+body
+{   
+    color:#40514E;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+
+}
+
+
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+}
+p{
+    line-height: 2;
+}
+hr{
+    border:dotted #45b29a 6px;
+    border-bottom: none;
+    width:4%;
+}
+a{
+    color: #11999E ;
+    text-decoration: none;
+}
+a:hover{
+    color: #3B6978;
+}
+.About,.Intro{
+    width:50%;
+    text-align: center;
+    margin: auto;
+}
+.top_container
+{
+    position: relative;
+    padding-top: 100px;
+    background-image: linear-gradient(to top ,rgba(142, 198, 197,0),rgba(142, 198, 197,1));
+    border-bottom-width:-80px ;
+    object-fit: contain;
+   
+}
+.middle_container{
+    padding-top: 75px;
+    background-image: linear-gradient(to bottom,rgba(142, 198, 197,0),rgba(142, 198, 197,1));
+    
+   
+}
+.bottom_container{
+    padding: 10px 0px 10px 0px;
+    
+}
+.skill-row{
+    width:50%;
+    margin: 50px auto 100px auto;
+    
+    
+}
+.skillpic1{
+   width: 150px;
+   height: 150px;
+   border-radius: 150px;
+   float: left;
+   margin-right: 30px;
+}
+.skillpic2{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    float: right;
+    margin-left: 30px;   
+ }
+
+.earthcontent{
+    margin: 0 auto;
+    max-width: 800px;
+    overflow: hidden;
+
+}
+
+.mountain{
+    width: 100%;
+    vertical-align: middle;
+    border: 0;
+    margin-bottom: 0px;
+}
+.left-cloud {
+    left: 8em;
+    top: 6em;
+    position: absolute;
+    width: 150px;
+
+}
+
+.right-cloud {
+    right: 10em;
+    top: 4em;
+    position: absolute;
+    width: 150px;
+    
+    z-index: 980;
+}
+
+
+.image{
+    border: dotted #45b29a 4px;
+    border-radius: 200px;
+    width:150px;
+    height: 150px;
+}
+.contact-me{
+    margin-top: 20px;
+    margin-left: 0px;
+    width:50%;
+    float: right;
+}
+projects{
+    margin-top: 20px;
+    margin-left: 0px;
+    width:50%;
+    float: left;
+}
+.contact{
+    width:30%;
+    margin-top: 20px;
+    line-height: 5;
+    float:right;
+    text-align: left;
+}
+.bottom-img{
+    width:50px;
+    height:50px;
+    
+}
+.copyrights{
+    clear: both;
+    font-size: 0.75rem;
+}
+.skill-content1{
+    text-align: left;
+}
+.skill-content2{
+    text-align: right;
+}
+
+.button {
+    
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+   
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    font-weight:bolder;
+}
+    
+.button:hover {
+    background: #2BC4AD;
+    background-image: -webkit-linear-gradient(top, #2BC4AD, #30E3CB);
+    background-image: -moz-linear-gradient(top, #2BC4AD, #30E3CB);
+    background-image: -ms-linear-gradient(top, #2BC4AD, #30E3CB);
+    background-image: -o-linear-gradient(top, #2BC4AD, #30E3CB);
+    background-image: linear-gradient(to bottom, #2BC4AD, #30E3CB);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
